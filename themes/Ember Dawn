@@ -1,0 +1,32 @@
+# ============================================
+# Ghostty Theme: Ember Dawn
+# Warm-toned light theme, low contrast, eye-friendly and comfortable.
+# ============================================
+
+background = #faf6f0
+foreground = #3e3830
+
+cursor-color = #b8945a
+cursor-text = #faf6f0
+
+selection-background = #e0d4c0
+selection-foreground = #3e3830
+
+palette = 0=#5a5248
+palette = 1=#b85a3a
+palette = 2=#5a7a3a
+palette = 3=#9a7a2a
+palette = 4=#4a6a8a
+palette = 5=#8a5a8a
+palette = 6=#3a7a6a
+palette = 7=#6a6058
+
+palette = 8=#8a8078
+palette = 9=#d07048
+palette = 10=#6a9a48
+palette = 11=#b89430
+palette = 12=#5a80a8
+palette = 13=#a870a0
+palette = 14=#489a80
+palette = 15=#3e3830
+

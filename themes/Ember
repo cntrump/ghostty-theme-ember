@@ -1,0 +1,32 @@
+# ============================================
+# Ghostty Theme: Ember
+# Warm-toned dark theme, low contrast, eye-friendly and comfortable.
+# ============================================
+
+background = #1e1c1a
+foreground = #d4c8b8
+
+cursor-color = #c4a87c
+cursor-text = #1e1c1a
+
+selection-background = #3a342c
+selection-foreground = #e8dcc8
+
+palette = 0=#2a2622
+palette = 1=#c47a5a
+palette = 2=#8a9e6b
+palette = 3=#c4a86a
+palette = 4=#7a8ea8
+palette = 5=#b08aaa
+palette = 6=#6a9e9e
+palette = 7=#b8a898
+
+palette = 8=#4a443c
+palette = 9=#e0946e
+palette = 10=#a0b47e
+palette = 11=#dcc080
+palette = 12=#90a4be
+palette = 13=#c8a0c0
+palette = 14=#80b4b4
+palette = 15=#e0d0c0
+
